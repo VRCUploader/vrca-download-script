@@ -11,4 +11,6 @@ A script to download .vrca files for your own uploaded avatars
 
 # Usage
 
-Once the script is installed, you can now browse your uploaded avatars on vrchat.com and Download buttons should populate for each of them. Please note that this script only works for your OWN avatars, the api does not return assetUrls for avatars you do not own.
+Once the script is installed, you can now browse your uploaded avatars on vrchat.com and download buttons should populate for each of them. 
+
+Please note that this script only works for your OWN avatars, the api does not return assetUrls for avatars you do not own.
